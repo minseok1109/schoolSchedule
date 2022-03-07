@@ -1,0 +1,5 @@
+/node_modules/
+/chromedriver
+/package-lock.json
+/.vscode/
+/.idea/modules.xml
